@@ -1,10 +1,7 @@
 ## HOW TO USE
 
 - `npm i`
-- to test `napi-rs/canvas` use `http://localhost:3000/canvas`, for `skia-canvas` use `http://localhost:3000/skia-canvas`
-
-replace `currentTest` value on line `64` of `index.js` for desired test
-run `npm test`
+- run `npm test`
 
 ## Problems
 
