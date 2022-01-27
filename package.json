@@ -1,0 +1,25 @@
+{
+  "name": "napi-rs-canvas-text-mem-leak",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarosPistej/napi-rs-canvas-text-mem-leak.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarosPistej/napi-rs-canvas-text-mem-leak/issues"
+  },
+  "homepage": "https://github.com/MarosPistej/napi-rs-canvas-text-mem-leak#readme",
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.19",
+    "express": "^4.17.2",
+    "skia-canvas": "^0.9.28"
+  }
+}
